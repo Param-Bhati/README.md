@@ -1,4 +1,4 @@
-![banner](https://github.com/Param-Bhati/README.md/blob/dual/beyoncefav.gif?raw=true)
+![banner](https://github.com/Param-Bhati/README.md/blob/dual/ezgif-5e533ec57f4791.gif?raw=true)
 # yo, i'm Param 
 aka `dualfactor12`  
 i code things, break stuff, fix it again.
