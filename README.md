@@ -11,6 +11,14 @@ Founder [@BotWorks.Inc](https://discord.gg/w3PrScfAPn)
 [![discord presence](https://lanyard.cnrad.dev/api/857659303074594837?theme=dark&borderRadius=10px)](https://discord.com/users/857659303074594837)
 
 ---
+### Currently Listening to~
+![Britney Jean Spears](https://github.com/Param-Bhati/README.md/blob/dual/BROIDFK.gif?raw=true)
+
+
+Follow me on Apple Music for the some good playlists [![Apple Music](https://img.shields.io/badge/-@dualfactor12-000000?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/profile/dualfactor12)
+
+---
+
 
 ### 🛠 tools i touch a lot
 
@@ -32,7 +40,6 @@ Founder [@BotWorks.Inc](https://discord.gg/w3PrScfAPn)
 
 ### 🌐 social stuff
 
-[![Apple Music](https://img.shields.io/badge/-@dualfactor12-000000?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/profile/dualfactor12)
 [![Instagram](https://img.shields.io/badge/-@dualfactor12-black?style=for-the-badge&logo=instagram)](https://instagram.com/dualfactor12)
 [![LinkedIn](https://img.shields.io/badge/-@dualfactor12-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dualfactor12)
 [![X](https://img.shields.io/badge/-@dualfactor12-black?style=for-the-badge&logo=x)](https://x.com/dualfactor12)
