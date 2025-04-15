@@ -1,4 +1,5 @@
-# yo, i'm Param ![banner](https://github.com/your-username/your-repo-name/assets/unique-id/filename.gif)
+![banner](https://github.com/Param-Bhati/README.md/blob/dual/beyoncefav.gif?raw=true)
+# yo, i'm Param 
 aka `dualfactor12`  
 i code things, break stuff, fix it again.
 Obsessed with music and science.
