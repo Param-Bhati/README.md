@@ -20,7 +20,7 @@ Follow me on Apple Music for the some good playlists [![Apple Music](https://img
 ---
 
 
-### 🛠 tools i touch a lot
+### 🛠 My Fav Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
@@ -28,20 +28,22 @@ Follow me on Apple Music for the some good playlists [![Apple Music](https://img
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode)
 
 ---
 
-### ✉️ hit me up
+### ✉️ Hit me up
 
 [![Email](https://img.shields.io/badge/email-parambhati31@icloud.com-black?style=for-the-badge&logo=apple)](mailto:parambhati31@icloud.com)
 
 ---
 
-### 🌐 social stuff
+### 🌐 Social Stuff
 
 [![Instagram](https://img.shields.io/badge/-@dualfactor12-black?style=for-the-badge&logo=instagram)](https://instagram.com/dualfactor12)
-[![LinkedIn](https://img.shields.io/badge/-@dualfactor12-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dualfactor12)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dualfactor12)
 [![X](https://img.shields.io/badge/-@dualfactor12-black?style=for-the-badge&logo=x)](https://x.com/dualfactor12)
 
 ---
