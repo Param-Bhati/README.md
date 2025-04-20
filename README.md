@@ -12,7 +12,7 @@ Founder [@BotWorks.Inc](https://discord.gg/w3PrScfAPn)
 
 ---
 ### Currently Listening to~
-![Britney Jean Spears](https://github.com/Param-Bhati/param-bhati/blob/dual/JeanSpears.gif?raw=true)
+![Britney Jean Spears](https://github.com/Param-Bhati/param-bhati/blob/dual/mrsjeanspears.gif?raw=true)
 
 
 Follow me on Apple Music for the some good playlists [![Apple Music](https://img.shields.io/badge/-@dualfactor12-000000?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/profile/dualfactor12)
